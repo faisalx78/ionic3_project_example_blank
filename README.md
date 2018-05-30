@@ -1,0 +1,1 @@
+# ionic3_project_example_blank
