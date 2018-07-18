@@ -15,6 +15,7 @@
 
 # Back Color Android
 .bar-button-default-md,
-............................
+
+
 ionic generate page about
 
